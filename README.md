@@ -1,2 +1,2 @@
 # IoT_lab
-This repository is my individual lab codes.
+This repository is for my individual lab codes.
